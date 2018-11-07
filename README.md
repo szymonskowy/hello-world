@@ -1,2 +1,6 @@
 # hello-world
-learning github
+
+Hi People
+
+Szymon here, I want to become **junior java developer .
+
